@@ -1,4 +1,4 @@
-# BraveReleases
+# BraveX
 Cập nhật các phiên bản
 
-New: https://braveupdate.netlify.app
+New: https://fileupdateautobrave.netlify.app
